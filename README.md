@@ -19,7 +19,7 @@ The goal is to use this data to create machine learning modules to classify the 
 1. Prediction
     - <strong><em>Random Forest Classifier</em></strong>
 2. Justification
-    - Due to known category of "credit risk vs not credit risk", random forest classifier would be better to predict whether a loan will be approved or not. Logistic Regression model would better predict numerical range/data ushc as weather forecasting, market forecasting, estimating life expectancy, advertising popularity prediction, etc..
+    - Due to known category of "credit risk vs not credit risk", random forest classifier would be better to predict whether a loan will be approved or not. Individual Random Forest Classifier decision trees with random selection can capture more complicated feature patterns and deliver the best accuracy. Logistic Regression model would better predict numerical range/data ushc as weather forecasting, market forecasting, estimating life expectancy, advertising popularity prediction, etc..
 
 ## Outcome Prediction
 1. Which model performed better? 
