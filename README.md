@@ -26,5 +26,8 @@ The goal is to use this data to create machine learning modules to classify the 
 
 ## Outcome Prediction
 1. Which model performed better? 
-2. How does that compare to your prediction?
+    - Random Forest Classifier
+
+2. How does that compare to your prediction? 
+    - I chose Random Forest Classifer, as well. "A random forest is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting (scikit-learn, 2007-2022)." Random forest classifier models is good due to high performance and less need for interpretation. The decision tree within the Random Forest Classifier split the data into smaller data groups based on features such as debt-to-income ratio, loan amount, etc..
 
